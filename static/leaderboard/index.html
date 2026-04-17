@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lyric Leaderboard</title>
+    <style>
+      :root { color-scheme: dark; }
+      body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans"; background:#0b0f17; color:#e6edf3; }
+      header { padding:24px 16px; text-align:center; background:linear-gradient(90deg,#6ea8fe33,#a07bff33); border-bottom:1px solid #1f2633; }
+      h1 { margin:0; font-weight:700; letter-spacing:.3px; }
+      .wrap { max-width:880px; margin:24px auto 64px; padding:0 16px; }
+      .card { background:#0f1522; border:1px solid #1f2633; border-radius:14px; overflow:hidden; }
+      .row { display:grid; grid-template-columns:56px 1fr 140px; gap:12px; align-items:center; padding:14px 16px; border-top:1px solid #161c28; }
+      .row:first-child { border-top:none; }
+      .rank { font-weight:700; text-align:center; opacity:.9; }
+      .user { display:flex; align-items:center; gap:12px; min-width:0; }
+      .user img { width:40px; height:40px; border-radius:999px; object-fit:cover; border:1px solid #273246; background:#0b0f17; }
+      .name { font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+      .hype { text-align:right; font-variant-numeric:tabular-nums; font-weight:700; }
+      .muted { opacity:.7; }
+      .error { padding:16px; color:#ffb6b6; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>🏆 Lyric Leaderboard</h1>
+      <div class="muted">Auto-refreshes every 30 seconds</div>
+    </header>
+
+    <div class="wrap">
+      <div id="board" class="card">
+        <div class="row">
+          <div class="rank muted">#</div>
+          <div class="name muted">Player</div>
+          <div class="hype muted">Hype</div>
+        </div>
+      </div>
+      <div id="error" class="error" style="display:none;"></div>
+    </div>
+
+    <script>
+      // Your backend IP:port
+      const API = "http://45.92.217.113:8080/api/v2/Lyric/leaderboard_hype";
+
+      const board = document.getElementById("board");
+      const errorBox = document.getElementById("error");
+
+      function avatarUrl(accountId, fallback) {
+        return fallback && /^https?:\/\//i.test(fallback)
+          ? fallback
+          : `https://i.pravatar.cc/48?u=${encodeURIComponent(accountId ?? "unknown")}`;
+      }
+
+      function render(list) {
+        [...board.querySelectorAll(".row")].slice(1).forEach((n) => n.remove());
+        if (!Array.isArray(list) || list.length === 0) {
+          const empty = document.createElement("div");
+          empty.className = "row";
+          empty.innerHTML = `
+            <div class="rank muted">–</div>
+            <div class="name muted">No players yet</div>
+            <div class="hype">0</div>
+          `;
+          board.appendChild(empty);
+          return;
+        }
+        list.forEach((u, i) => {
+          const row = document.createElement("div");
+          row.className = "row";
+          row.innerHTML = `
+            <div class="rank">${i + 1}</div>
+            <div class="user">
+              <img alt="" src="${avatarUrl(u.accountId, u.avatar)}" />
+              <div class="name">${u.username ?? "Unknown"}</div>
+            </div>
+            <div class="hype">${Number(u.hype || 0).toLocaleString()} hype</div>
+          `;
+          board.appendChild(row);
+        });
+      }
+
+      async function load() {
+        try {
+          errorBox.style.display = "none";
+          const res = await fetch(API, { cache: "no-store" });
+          if (!res.ok) throw new Error("HTTP " + res.status);
+          const json = await res.json();
+          render(json.leaderboard || []);
+        } catch (err) {
+          errorBox.textContent = "Failed to load leaderboard.";
+          errorBox.style.display = "block";
+          console.error("Lyric leaderboard fetch error:", err);
+        }
+      }
+
+      load();
+      setInterval(load, 30_000);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,35 @@
+[
+  "AthenaBackpack:BID_003_RedKnight",
+  "AthenaBackpack:BID_004_BlackKnight",
+  "AthenaBackpack:BID_001_BlueSquire",
+  "AthenaCharacter:CID_035_Athena_Commando_M_Medieval",
+  "AthenaCharacter:CID_034_Athena_Commando_F_Medieval",
+  "AthenaCharacter:CID_033_Athena_Commando_F_Medieval",
+  "AthenaCharacter:CID_032_Athena_Commando_M_Medieval",
+  "AthenaDance:EID_TakeTheL",
+
+  "AthenaCharacter:CID_022_Athena_Commando_F",
+  "AthenaCharacter:CID_017_Athena_Commando_M",
+  "AthenaCharacter:CID_028_Athena_Commando_F",
+  "AthenaCharacter:CID_030_Athena_Commando_M_Halloween",
+  "AthenaCharacter:CID_029_Athena_Commando_F_Halloween",
+  "AthenaCharacter:CID_024_Athena_Commando_F",
+  "AthenaCharacter:CID_027_Athena_Commando_F",
+
+  "AthenaDance:EID_Fresh",
+  "AthenaDance:EID_Dab",
+  "AthenaDance:EID_ElectroShuffle",
+  "AthenaDance:EID_Floss",
+  "AthenaDance:EID_RideThePony_Athena",
+  "AthenaDance:EID_Worm",
+
+  "AthenaPickaxe:HalloweenScythe",
+  "AthenaPickaxe:Pickaxe_Lockjaw",
+  "AthenaPickaxe:SickleBatPickaxe",
+  "AthenaPickaxe:Pickaxe_ID_013_Teslacoil",
+  "AthenaPickaxe:Pickaxe_ID_015_HolidayCandyCane",
+  "AthenaPickaxe:HappyPickaxe",
+
+  "AthenaGlider:Glider_Warthog",
+  "AthenaGlider:Umbrella_Snowflake"
+]

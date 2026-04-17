@@ -1,0 +1,119 @@
+{
+  "SKIN": "CID_648_Athena_Commando_F_MsAlpine",
+  "SKIN_PRICE": 0,
+  "SKIN_SECTION": "Featured",
+
+  "SKIN2": "Character_Mouse",
+  "SKIN2_PRICE": 0,
+  "SKIN2_SECTION": "Featured",
+
+  "SKIN3": "CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA",
+  "SKIN3_PRICE": 0,
+  "SKIN3_SECTION": "Daily",
+
+  "SKIN4": "CID_A_256_Athena_Commando_F_UproarBraids_8IOZW",
+  "SKIN4_PRICE": 0,
+  "SKIN4_SECTION": "Daily",
+
+  "SKIN5": "CID_819_Athena_Commando_F_NeonTightSuit_B",
+  "SKIN5_PRICE": 0,
+  "SKIN5_SECTION": "Featured",
+
+  "SKIN6": "Character_StallionAviator",
+  "SKIN6_PRICE": 0,
+  "SKIN6_SECTION": "Daily",
+
+  "SKIN7": "CID_A_266_Athena_Commando_F_Grandeur_9CO1M",
+  "SKIN7_PRICE": 0,
+  "SKIN7_SECTION": "Daily",
+
+  "SKIN8": "Character_HeadhunterStar",
+  "SKIN8_PRICE": 0,
+  "SKIN8_SECTION": "Daily",
+
+  "SKIN9": "Character_MirageHike",
+  "SKIN9_PRICE": 0,
+  "SKIN9_SECTION": "Daily",
+
+  "SKIN10": "Character_SunBurst",
+  "SKIN10_PRICE": 0,
+  "SKIN10_SECTION": "Featured",
+
+  "PICKAXE1": "Pickaxe_ID_138_Gnome",
+  "PICKAXE1_PRICE": 0,
+  "PICKAXE1_SECTION": "Featured",
+
+  "PICKAXE2": "Pickaxe_ID_359_CycloneMale",
+  "PICKAXE2_PRICE": 0,
+  "PICKAXE2_SECTION": "Daily",
+
+  "PICKAXE3": "Pickaxe_ID_102_RedRiding",
+  "PICKAXE3_PRICE": 0,
+  "PICKAXE3_SECTION": "Featured",
+
+  "PICKAXE4": "Pickaxe_ID_363_LollipopTricksterFemale",
+  "PICKAXE4_PRICE": 0,
+  "PICKAXE4_SECTION": "Daily",
+
+  "PICKAXE5": "Pickaxe_ID_014_WinterCamo",
+  "PICKAXE5_PRICE": 0,
+  "PICKAXE5_SECTION": "Daily",
+
+  "PICKAXE6": "Pickaxe_ID_085_Wukong",
+  "PICKAXE6_PRICE": 0,
+  "PICKAXE6_SECTION": "Daily",
+
+  "PICKAXE7": "Pickaxe_ID_508_HistorianMale_6BQSW",
+  "PICKAXE7_PRICE": 0,
+  "PICKAXE7_SECTION": "Featured",
+
+  "PICKAXE8": "Pickaxe_BoneWand",
+  "PICKAXE8_PRICE": 0,
+  "PICKAXE8_SECTION": "Featured",
+
+  "PICKAXE9": "Pickaxe_ID_179_StarWand",
+  "PICKAXE9_PRICE": 0,
+  "PICKAXE9_SECTION": "Featured",
+
+  "PICKAXE10": "Pickaxe_ID_074_SharpDresser",
+  "PICKAXE10_PRICE": 0,
+  "PICKAXE10_SECTION": "Daily",
+
+  "ITEMWRAP": "Wrap_018_Magma",
+  "ITEMWRAP_PRICE": 0,
+  "ITEMWRAP_SECTION": "Daily",
+
+  "ITEMWRAP2": "Wrap_GreenGlass",
+  "ITEMWRAP2_PRICE": 0,
+  "ITEMWRAP2_SECTION": "Daily",
+
+  "GLIDER1": "Glider_Dazzle",
+  "GLIDER1_PRICE": 0,
+  "GLIDER1_SECTION": "Featured",
+
+  "GLIDER2": "Glider_ID_314_SpaceChimpMale",
+  "GLIDER2_PRICE": 0,
+  "GLIDER2_SECTION": "Daily",
+
+  "BACKBLING1": "BID_072_VikingMale",
+  "BACKBLING1_PRICE": 0,
+  "BACKBLING1_SECTION": "Featured",
+
+  "BACKBLING2": "BID_229_LuckyRiderMale",
+  "BACKBLING2_PRICE": 0,
+  "BACKBLING2_SECTION": "Featured",
+
+  "SKIN10_STYLE_ClothingColor": "Default|SparkleBlue|SparklePink",
+  "SKIN10_STYLE_Material": "Default|Holo",
+  "PICKAXE3_STYLE_Color": "Default|BoneWhite|Shadow",
+  "GLIDER1_STYLE_Color": "Default|Mystic|Ethereal",
+  "BACKBLING_STYLE_Effect": "Default|ShatterBlue|ShatterPurple",
+  "ITEMWRAP_STYLE_Color": "Default|Cosmic|Pulse",
+
+  "BUNDLE_Kynoxy": "Architect_PunkDevil_Bundle",
+  "BUNDLE_Kynoxy_PRICE": 7500,
+  "BUNDLE_Kynoxy_SECTION": "Featured",
+  "BUNDLE_Kynoxy_TITLE": "Kynoxys bundle",
+
+  "SECTION_ORDER": "Featured,Daily"
+}

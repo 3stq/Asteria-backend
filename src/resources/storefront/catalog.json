@@ -1,0 +1,2351 @@
+{
+  "refreshIntervalHrs": 24,
+  "dailyPurchaseHrs": 24,
+  "expiration": "9999-12-31T00:00:00.000Z",
+  "storefronts": [
+    {
+      "name": "BRWeeklyStorefront",
+      "catalogEntries": [
+        {
+          "devName": "AthenaBackpack:BID_072_VikingMale",
+          "offerId": "AthenaBackpack:BID_072_VikingMale",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaBackpack:BID_072_VikingMale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_BID_072_VikingMale.DA_Featured_BID_072_VikingMale",
+          "itemGrants": [
+            {
+              "templateId": "AthenaBackpack:BID_072_VikingMale",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaBackpack:BID_229_LuckyRiderMale",
+          "offerId": "AthenaBackpack:BID_229_LuckyRiderMale",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaBackpack:BID_229_LuckyRiderMale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_BID_229_LuckyRiderMale.DA_Featured_BID_229_LuckyRiderMale",
+          "itemGrants": [
+            {
+              "templateId": "AthenaBackpack:BID_229_LuckyRiderMale",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:Character_Mouse",
+          "offerId": "AthenaCharacter:Character_Mouse",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:Character_Mouse",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Character_Mouse.DA_Featured_Character_Mouse",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:Character_Mouse",
+              "quantity": 1,
+              "attributes": {
+                "variants": [
+                  {
+                    "channel": "Parts",
+                    "owned": [
+                      "Stage1",
+                      "Stage2"
+                    ],
+                    "active": "Stage1"
+                  }
+                ],
+                "item_seen": true
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:Character_SunBurst",
+          "offerId": "AthenaCharacter:Character_SunBurst",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:Character_SunBurst",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Character_SunBurst.DA_Featured_Character_SunBurst",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:Character_SunBurst",
+              "quantity": 1,
+              "attributes": {
+                "variants": [
+                  {
+                    "channel": "Parts",
+                    "owned": [
+                      "Stage1",
+                      "Stage2"
+                    ],
+                    "active": "Stage1"
+                  },
+                  {
+                    "channel": "Particle",
+                    "owned": [
+                      "Particle1",
+                      "Particle2"
+                    ],
+                    "active": "Particle1"
+                  },
+                  {
+                    "channel": "Material",
+                    "owned": [
+                      "Stage1",
+                      "Stage2"
+                    ],
+                    "active": "Stage1"
+                  }
+                ],
+                "item_seen": true
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine",
+          "offerId": "AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_648_Athena_Commando_F_MsAlpine.DA_Featured_CID_648_Athena_Commando_F_MsAlpine",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_819_Athena_Commando_F_NeonTightSuit_B",
+          "offerId": "AthenaCharacter:CID_819_Athena_Commando_F_NeonTightSuit_B",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_819_Athena_Commando_F_NeonTightSuit_B",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_819_Athena_Commando_F_NeonTightSuit_B.DA_Featured_CID_819_Athena_Commando_F_NeonTightSuit_B",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_819_Athena_Commando_F_NeonTightSuit_B",
+              "quantity": 1,
+              "attributes": {
+                "variants": [
+                  {
+                    "channel": "Material",
+                    "owned": [
+                      "Mat1",
+                      "Mat2"
+                    ],
+                    "active": "Mat1"
+                  }
+                ],
+                "item_seen": true
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaGlider:Glider_Dazzle",
+          "offerId": "AthenaGlider:Glider_Dazzle",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaGlider:Glider_Dazzle",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Glider_Dazzle.DA_Featured_Glider_Dazzle",
+          "itemGrants": [
+            {
+              "templateId": "AthenaGlider:Glider_Dazzle",
+              "quantity": 1,
+              "attributes": {
+                "variants": [
+                  {
+                    "channel": "Particle",
+                    "owned": [
+                      "Particle1",
+                      "Particle2"
+                    ],
+                    "active": "Particle1"
+                  }
+                ],
+                "item_seen": true
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_BoneWand",
+          "offerId": "AthenaPickaxe:Pickaxe_BoneWand",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_BoneWand",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_BoneWand.DA_Featured_Pickaxe_BoneWand",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_BoneWand",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_102_RedRiding",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_102_RedRiding",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_102_RedRiding",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_102_RedRiding.DA_Featured_Pickaxe_ID_102_RedRiding",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_102_RedRiding",
+              "quantity": 1,
+              "attributes": {
+                "variants": [
+                  {
+                    "channel": "Color",
+                    "owned": [
+                      "Default",
+                      "BoneWhite",
+                      "Shadow"
+                    ],
+                    "active": "Default"
+                  }
+                ],
+                "item_seen": true
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_138_Gnome",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_138_Gnome",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_138_Gnome",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_138_Gnome.DA_Featured_Pickaxe_ID_138_Gnome",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_138_Gnome",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_179_StarWand",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_179_StarWand",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_179_StarWand",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_179_StarWand.DA_Featured_Pickaxe_ID_179_StarWand",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_179_StarWand",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_508_HistorianMale_6BQSW",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_508_HistorianMale_6BQSW",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Featured",
+            "LayoutId": "Lyric",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "Lyric",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_508_HistorianMale_6BQSW",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Lyric"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "Lyric"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_508_HistorianMale_6BQSW.DA_Featured_Pickaxe_ID_508_HistorianMale_6BQSW",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_508_HistorianMale_6BQSW",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        }
+      ]
+    },
+    {
+      "name": "BRDailyStorefront",
+      "catalogEntries": [
+        {
+          "devName": "AthenaCharacter:Character_HeadhunterStar",
+          "offerId": "AthenaCharacter:Character_HeadhunterStar",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:Character_HeadhunterStar",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Character_HeadhunterStar.DA_Featured_Character_HeadhunterStar",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:Character_HeadhunterStar",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:Character_MirageHike",
+          "offerId": "AthenaCharacter:Character_MirageHike",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:Character_MirageHike",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Character_MirageHike.DA_Featured_Character_MirageHike",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:Character_MirageHike",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:Character_StallionAviator",
+          "offerId": "AthenaCharacter:Character_StallionAviator",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:Character_StallionAviator",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Character_StallionAviator.DA_Featured_Character_StallionAviator",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:Character_StallionAviator",
+              "quantity": 1,
+              "attributes": {
+                "variants": [
+                  {
+                    "channel": "Material",
+                    "owned": [
+                      "Mat1",
+                      "Mat2"
+                    ],
+                    "active": "Mat1"
+                  }
+                ],
+                "item_seen": true
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA",
+          "offerId": "AthenaCharacter:CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA.DA_Featured_CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA",
+              "quantity": 1,
+              "attributes": {
+                "variants": [
+                  {
+                    "channel": "Emissive",
+                    "owned": [
+                      "Emissive2",
+                      "Emissive0"
+                    ],
+                    "active": "Emissive2"
+                  }
+                ],
+                "item_seen": true
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_A_256_Athena_Commando_F_UproarBraids_8IOZW",
+          "offerId": "AthenaCharacter:CID_A_256_Athena_Commando_F_UproarBraids_8IOZW",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_A_256_Athena_Commando_F_UproarBraids_8IOZW",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_A_256_Athena_Commando_F_UproarBraids_8IOZW.DA_Featured_CID_A_256_Athena_Commando_F_UproarBraids_8IOZW",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_A_256_Athena_Commando_F_UproarBraids_8IOZW",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaCharacter:CID_A_266_Athena_Commando_F_Grandeur_9CO1M",
+          "offerId": "AthenaCharacter:CID_A_266_Athena_Commando_F_Grandeur_9CO1M",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:CID_A_266_Athena_Commando_F_Grandeur_9CO1M",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_A_266_Athena_Commando_F_Grandeur_9CO1M.DA_Featured_CID_A_266_Athena_Commando_F_Grandeur_9CO1M",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_A_266_Athena_Commando_F_Grandeur_9CO1M",
+              "quantity": 1,
+              "attributes": {
+                "variants": [
+                  {
+                    "channel": "Material",
+                    "owned": [
+                      "Mat1",
+                      "Mat2",
+                      "Mat3"
+                    ],
+                    "active": "Mat1"
+                  }
+                ],
+                "item_seen": true
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaGlider:Glider_ID_314_SpaceChimpMale",
+          "offerId": "AthenaGlider:Glider_ID_314_SpaceChimpMale",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaGlider:Glider_ID_314_SpaceChimpMale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Glider_ID_314_SpaceChimpMale.DA_Featured_Glider_ID_314_SpaceChimpMale",
+          "itemGrants": [
+            {
+              "templateId": "AthenaGlider:Glider_ID_314_SpaceChimpMale",
+              "quantity": 1,
+              "attributes": {
+                "variants": [
+                  {
+                    "channel": "Particle",
+                    "owned": [
+                      "Particle1",
+                      "Particle2",
+                      "Particle3"
+                    ],
+                    "active": "Particle1"
+                  }
+                ],
+                "item_seen": true
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaItemWrap:Wrap_018_Magma",
+          "offerId": "AthenaItemWrap:Wrap_018_Magma",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaItemWrap:Wrap_018_Magma",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Wrap_018_Magma.DA_Featured_Wrap_018_Magma",
+          "itemGrants": [
+            {
+              "templateId": "AthenaItemWrap:Wrap_018_Magma",
+              "quantity": 1,
+              "attributes": {
+                "variants": [
+                  {
+                    "channel": "Color",
+                    "owned": [
+                      "Default",
+                      "Cosmic",
+                      "Pulse"
+                    ],
+                    "active": "Default"
+                  }
+                ],
+                "item_seen": true
+              }
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaItemWrap:Wrap_GreenGlass",
+          "offerId": "AthenaItemWrap:Wrap_GreenGlass",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaItemWrap:Wrap_GreenGlass",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Wrap_GreenGlass.DA_Featured_Wrap_GreenGlass",
+          "itemGrants": [
+            {
+              "templateId": "AthenaItemWrap:Wrap_GreenGlass",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_014_WinterCamo.DA_Featured_Pickaxe_ID_014_WinterCamo",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_074_SharpDresser",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_074_SharpDresser",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_074_SharpDresser",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_074_SharpDresser.DA_Featured_Pickaxe_ID_074_SharpDresser",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_074_SharpDresser",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_085_Wukong",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_085_Wukong",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_085_Wukong",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_085_Wukong.DA_Featured_Pickaxe_ID_085_Wukong",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_085_Wukong",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_359_CycloneMale",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_359_CycloneMale",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_359_CycloneMale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_359_CycloneMale.DA_Featured_Pickaxe_ID_359_CycloneMale",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_359_CycloneMale",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale",
+          "offerId": "AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-02T01:12:00Z",
+              "basePrice": 0
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "",
+            "SectionId": "Daily",
+            "LayoutId": "Daily",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "DailyCore",
+            "FirstSeen": "2/2/2020"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "="
+            },
+            {
+              "key": "SectionId",
+              "value": "Daily"
+            },
+            {
+              "key": "LayoutId",
+              "value": "Daily"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "DailyCore"
+            },
+            {
+              "key": "FirstSeen",
+              "value": "2/2/2020"
+            },
+            {
+              "key": "ShopName",
+              "value": "Lyric Shop"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_363_LollipopTricksterFemale.DA_Featured_Pickaxe_ID_363_LollipopTricksterFemale",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale",
+              "quantity": 1
+            }
+          ],
+          "sortPriority": 0,
+          "catalogGroupPriority": 0
+        }
+      ]
+    }
+  ]
+}

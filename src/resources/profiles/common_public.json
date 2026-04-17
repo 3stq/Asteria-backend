@@ -1,0 +1,26 @@
+{
+  "created": "",
+  "updated": "",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "",
+  "profileId": "common_public",
+  "version": 1,
+  "items": {
+    "Token:Havoc": {
+      "templateId": "Token:Havoc",
+      "attributes": {
+        "item_seen": false
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "banner_color": "",
+      "homebase_name": "",
+      "banner_icon": "SurvivalBannerStonewoodComplete"
+    }
+  },
+  "commandRevision": 0
+}

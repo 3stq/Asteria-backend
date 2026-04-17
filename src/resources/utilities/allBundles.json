@@ -1,0 +1,17 @@
+{
+  "VoltageLockerBundle": {
+    "items": [
+      "CID_734_Athena_Commando_F_BannerRed",
+      "Pickaxe_ID_847_StaminaMaleStandalone", 
+      "Glider_ID_201_TNTinaFemale",
+      "Wrap_NebulaV2",
+      "BID_629_LunchBox"
+    ],
+    "price": 7500,
+    "displayName": "Voltage Locker Bundle",
+    "description": "Complete your look with this electrifying bundle",
+    "displayAsset": "/Game/Catalog/DisplayAssets/DA_Featured_VoltageBundle.DA_Featured_VoltageBundle",
+    "section": "Bundles",
+    "bundleType": "StaticPrice"
+  }
+}
